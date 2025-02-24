@@ -3,6 +3,7 @@
 ## Idea:
 This project explores the humorous and frustrating moments when your water bottle lets you down in the most inconvenient ways. Whether it leaks, gets stuck, or refuses to open, these betrayals can bring a little bit of chaos to your day. The project aims to compile a collection of relatable and funny scenarios where your water bottle is the villain.
 
+
 ## Features:
 - A list of humorous and exaggerated scenarios where the water bottle "betrays" you.
 - Categories of betrayal such as "Leak Failures," "The Lid That Won't Budge," "Spilling in the Bag," and "Too Cold, Too Hot."
